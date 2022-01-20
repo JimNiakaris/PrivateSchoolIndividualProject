@@ -1,0 +1,12 @@
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\IndividualProjectB.exe.config
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\IndividualProjectB.exe
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\IndividualProjectB.pdb
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\EntityFramework.dll
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\EntityFramework.xml
+C:\Users\jimni\source\repos\IndividualProjectB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jimni\source\repos\IndividualProjectB\obj\Debug\IndividualProjectB.csproj.AssemblyReference.cache
+C:\Users\jimni\source\repos\IndividualProjectB\obj\Debug\IndividualProjectB.csproj.CoreCompileInputs.cache
+C:\Users\jimni\source\repos\IndividualProjectB\obj\Debug\IndividualProjectB.csproj.CopyComplete
+C:\Users\jimni\source\repos\IndividualProjectB\obj\Debug\IndividualProjectB.exe
+C:\Users\jimni\source\repos\IndividualProjectB\obj\Debug\IndividualProjectB.pdb
